@@ -24,3 +24,4 @@ How to use:
 
 -One point for each lane.
 
+![](game.gif)
